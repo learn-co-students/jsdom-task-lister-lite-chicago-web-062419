@@ -18,5 +18,3 @@ const addTask = (event) => {
     }
     deleteButton.addEventListener("click", deleteTask)
 }
-
-form.addEventListener("submit", addTask)
